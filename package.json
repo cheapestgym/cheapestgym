@@ -1,10 +1,11 @@
 {
-  "name": "app-2",
+  "name": "cheapestgym",
   "version": "0.1.0",
   "private": true,
   "homepage": "http://cheapestgym.github.io/cheapestgym",
   "dependencies": {
     "antd": "^3.19.2",
+    "gh-pages": "^2.0.1",
     "daum-maps-react": "^1.0.1",
     "icon-sdk-js": "^0.0.16",
     "react": "^16.8.6",

@@ -5,7 +5,6 @@ import DaumMap from 'daum-maps-react'
 import SDK from 'apis/SDK';
 import IconexConnect from 'apis/IconexConnect';
 import CONST from './constants';
-import { AdPage } from 'components'
 
 // import logo from './logo.svg';
 import marker from 'assets/images/marker.png'
