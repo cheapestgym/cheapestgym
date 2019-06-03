@@ -6,8 +6,6 @@ import SDK from 'apis/SDK';
 import IconexConnect from 'apis/IconexConnect';
 import CONST from './constants';
 
-// import logo from './logo.svg';
-import marker from 'assets/images/marker.png'
 import './App.css';
 
 import {
