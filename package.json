@@ -5,11 +5,13 @@
   "homepage": "http://cheapestgym.github.io/cheapestgym",
   "dependencies": {
     "antd": "^3.19.2",
+    "gh-pages": "^2.0.1",
     "daum-maps-react": "^1.0.1",
     "icon-sdk-js": "^0.0.16",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "yarn": "^1.16.0"
   },
   "scripts": {
     "start": "cross-env react-app-rewired start --scripts-version react-scripts",
@@ -38,7 +40,6 @@
     "babel-plugin-import": "^1.12.0",
     "cross-env": "^5.2.0",
     "customize-cra": "^0.2.13",
-    "gh-pages": "^2.0.1",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
     "push-dir": "^0.4.1",
