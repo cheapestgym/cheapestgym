@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cheapestgym/precache-manifest.a750c5f6e0d4094158d0feab13472a35.js"
+  "/cheapestgym/precache-manifest.df0fe746fd79148cc926b397ca93c26e.js"
 );
 
 self.addEventListener('message', (event) => {

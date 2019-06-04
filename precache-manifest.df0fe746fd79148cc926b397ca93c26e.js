@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb2be9e7d53502133dadb4b84791f4a9",
+    "revision": "c379adf690fabfdc0eda9601de91c9b2",
     "url": "/cheapestgym/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cheapestgym/static/css/2.5ccb918e.chunk.css"
   },
   {
-    "revision": "0d8c043c915bf4437686",
+    "revision": "2ec7079cd0b77a8aa725",
     "url": "/cheapestgym/static/css/main.5d17eb6f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cheapestgym/static/js/2.ea34ae72.chunk.js"
   },
   {
-    "revision": "0d8c043c915bf4437686",
-    "url": "/cheapestgym/static/js/main.34f01549.chunk.js"
+    "revision": "2ec7079cd0b77a8aa725",
+    "url": "/cheapestgym/static/js/main.3a16a6e7.chunk.js"
   },
   {
     "revision": "56ba8623d8cb6abc9d97",
