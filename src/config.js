@@ -1,5 +1,5 @@
 export default {
-  PROVIDER_URL: 'https://bicon.net.solidwallet.io/api/v3',
-  NID: '0x3',
-  CONTRACT_ADDRESS: 'cxed312e4c6b274f0ebf0365a370d5a83415e4e8ac',
+  PROVIDER_URL: 'https://wallet.icon.foundation/api/v3',
+  NID: '0x1',
+  CONTRACT_ADDRESS: 'cxc7028e228f492e38248723544044c65cdf8cd086'
 }
